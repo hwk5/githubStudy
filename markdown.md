@@ -55,6 +55,7 @@
 6.이미지
 ```
 ![이미지 설명](http://~)
+
 ```
 ![영화포스터](![alt text](https://img0.yna.co.kr/etc/inner/KR/2010/12/23/AKR20101223043800005_01_i_P4.jpg))
 
