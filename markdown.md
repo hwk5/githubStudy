@@ -90,7 +90,7 @@
  [이모지 검색](https://emojipedia.org)
 
   - 오늘 날씨는?⛅
-  - 오늘 저녁에 💻!? or 🛌🏻
+  - 오늘 저녁에 🦕!? or 📖
 
   13.배지 추가
   [배지 추가](https://simpleicons.org)
